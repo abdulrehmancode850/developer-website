@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { ExternalLink, Code } from "lucide-react";
 
 // Yahan apni images import karein (agar naam alag hon to file ke naam yahan change kar lein)
-import sneakerImg from "../assets/sneaker.png";
+import sneakerImg from "../assets/Sneaker.png";
 import dentalImg from "../assets/dental.png";
 import dashboardImg from "../assets/dashboard.png";
 
